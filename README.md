@@ -1,5 +1,5 @@
 # Elementary OS
-Análise do elementary OS
+Este projeto aborda o sistema operacional Elementary OS, mostrando as suas características e peculiaridades, que tornam essa distribuição única, com um design clean e de fácil utilização. 
 # Introdução
 Este projeto foi dado como trabalho para entrega pelo professor Hebert Rocha, na matéria de Sistemas Operacionais I, ofertada pela Universidade Federal de Roraima.
 # Objetivo
