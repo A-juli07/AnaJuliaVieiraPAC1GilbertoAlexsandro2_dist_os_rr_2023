@@ -4,6 +4,7 @@ Análise do elementary OS
 Este projeto foi dado como trabalho para entrega pelo professor Hebert Rocha, na matéria de Sistemas Operacionais I, ofertada pela Universidade Federal de Roraima.
 # Objetivo
 Analisar a distribuição linux, Elementary OS. A analise contém tópicos como :
+
 • Qual o objetivo da distro Linux? Qual domínio de usuários? Exemplo, gamers, segurança,
 desenvolvedores, editores gráficos, educacional e outros;
 • Qual ambiente gráfico (IDE do desktop - KDE, Gnome, LXDE, MATE, e outros)
