@@ -1,2 +1,2 @@
-# AnaJuliaVieiraPAC1GilbertoAlexsandro2_dist_os_rr_2023
+#Elementary OS
 Análise do elementary OS
