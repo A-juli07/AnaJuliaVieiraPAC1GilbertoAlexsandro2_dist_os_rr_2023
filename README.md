@@ -45,3 +45,6 @@ adotado pela distribuição?
 • Interpretador de comandos padrão do OS; 
 
 • Edições ou spin-offs.
+
+# Link do Tutorial de instalação do Elementary OS
+https://youtu.be/V0nfPl0sC4A
